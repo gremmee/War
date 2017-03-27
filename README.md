@@ -1,2 +1,4 @@
 # War
-Dice game
+Strategic dice game
+
+
